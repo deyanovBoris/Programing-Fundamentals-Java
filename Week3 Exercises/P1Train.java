@@ -2,6 +2,12 @@ package FundEx3;
 
 import java.util.Scanner;
 
+/*
+You will be given a count of wagons in a train n.
+On the next n lines, you will receive how many people will get on that wagon.
+In the end, print the whole train and the sum of the people on the train.
+*/
+
 public class P1Train {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
