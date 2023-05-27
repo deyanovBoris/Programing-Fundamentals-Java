@@ -3,6 +3,11 @@ package FundEx3;
 import java.util.Scanner;
 import java.util.Arrays;
 
+/*
+Write a program that finds the longest sequence of equal elements in an array of integers.
+If several longest sequences exist, print the leftmost one.
+*/
+
 public class P7MaxSequenceOfEqualElements
 {
     public static void main(String[] args) {
