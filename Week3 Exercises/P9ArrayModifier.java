@@ -3,6 +3,14 @@ package FundEx3;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+You are given an array with integers. Write a program to modify the elements after receiving the following commands:
+    • "swap {index1} {index2}" takes two elements and swap their places.
+    • "multiply {index1} {index2}" takes the element at the 1st index and multiplies it with the element
+       at 2nd index. Save the product at the 1st index.
+    • "decrease" decreases all elements in the array with 1.
+*/
+
 public class P9ArrayModifier {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
