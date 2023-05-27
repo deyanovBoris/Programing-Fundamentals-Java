@@ -2,6 +2,12 @@ package FundEx3;
 
 import java.util.Scanner;
 
+/*
+Write a program that receives an array and the number of rotations
+you have to perform (the first element goes at the end).
+Print the resulting array.
+*/
+
 public class P4ArrayRotation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
