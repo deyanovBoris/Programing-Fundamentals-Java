@@ -2,7 +2,7 @@ package FundEx3;
 
 import java.util.Scanner;
 
-public class P2 {
+public class P2CommonElements {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

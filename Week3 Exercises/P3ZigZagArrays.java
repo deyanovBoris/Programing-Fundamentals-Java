@@ -2,7 +2,7 @@ package FundEx3;
 
 import java.util.Scanner;
 
-public class P3 {
+public class P3ZigZagArrays {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

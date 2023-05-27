@@ -3,7 +3,7 @@ package FundEx3;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class P5 {
+public class P5TopIntegers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

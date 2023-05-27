@@ -2,7 +2,7 @@ package FundEx3;
 
 import java.util.Scanner;
 
-public class P4 {
+public class P4ArrayRotation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
